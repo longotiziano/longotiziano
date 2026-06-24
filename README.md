@@ -1,4 +1,4 @@
-﻿# longotiziano · computer engineering student & aspiring full stack developer
+﻿# longotiziano · computer engineering student & full stack developer
 
 Building products focused on user experience and data.
 
