@@ -11,7 +11,7 @@ A client and operations management system for the food & beverage industry. Buil
 
 `JavaScript` `HTML` `CSS` `SQLite` `Python` `ERP`
 
-*[github.com/longotiziano](https://github.com/longotiziano/gastronomic-crm)*
+*[github.com/longotiziano](https://github.com/longotiziano/gastronomic-erp)*
 
 ---
 
